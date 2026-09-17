@@ -14,13 +14,10 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/HoKwaan">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kwanhokwon63@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -299,9 +296,9 @@ Also participated in undergraduate research related to
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HoKwaan&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoKwaan&layout=compact&hide_border=true&theme=github_dark&langs_count=8"/>
 
 </div>
 
@@ -312,9 +309,9 @@ Also participated in undergraduate research related to
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoKwaan/HoKwaan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoKwaan/HoKwaan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HoKwaan/HoKwaan/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -331,13 +328,10 @@ and I enjoy learning through building and experimentation.
 <br/>
 
 **GitHub**
-https://github.com/YOUR_GITHUB_USERNAME
-
-**LinkedIn**
-YOUR_LINKEDIN_URL
+https://github.com/HoKwaan
 
 **Email**
-YOUR_EMAIL
+[kwanhokwon63@gmail.com](mailto:kwanhokwon63@gmail.com)
 
 </div>
 
