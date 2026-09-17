@@ -1,6 +1,6 @@
 <!-- ======================== HEADER ======================== -->
 
-![header](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=230\&section=header\&text=Kwanho%20Kwon\&fontSize=55\&fontColor=ffffff\&fontAlignY=35\&desc=AI%20%7C%20Computer%20Vision%20%7C%20Systems\&descSize=18\&descAlignY=55\&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Kwanho%20Kwon&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20Computer%20Vision%20%7C%20Systems&descSize=18&descAlignY=55&animation=fadeIn)
 
 <div align="center">
 
@@ -17,6 +17,7 @@
 <a href="https://github.com/HoKwaan">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="mailto:kwanhokwon63@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -42,12 +43,12 @@ kwanho = {
 }
 ```
 
-* 🎓 **Computer Engineering** student at **Kwangwoon University**
-* 🇺🇸 Former Exchange Student at **University of Nebraska at Kearney**
-* 🎥 Developing a **video-based Deepfake Detection system**
-* 🧠 Learning and experimenting with **On-device AI**
-* 💻 Interested in the intersection of **AI, Computer Vision, and Systems**
-* 🔬 I enjoy implementing ideas, running experiments, and analyzing results
+- 🎓 **Computer Engineering** student at **Kwangwoon University**
+- 🇺🇸 Former Exchange Student at **University of Nebraska at Kearney**
+- 🎥 Developing a **video-based Deepfake Detection system**
+- 🧠 Learning and experimenting with **On-device AI**
+- 💻 Interested in the intersection of **AI, Computer Vision, and Systems**
+- 🔬 I enjoy implementing ideas, running experiments, and analyzing results
 
 ---
 
@@ -55,7 +56,7 @@ kwanho = {
 
 ### 🎥 Video-based Deepfake Detection
 
-My graduation project focuses on detecting manipulated videos by combining
+My graduation project focuses on detecting manipulated videos by combining  
 **spatial features**, **frequency-domain features**, and **temporal information**.
 
 ```text
@@ -95,7 +96,7 @@ Features      Features
 
 ### 📱 On-device AI
 
-Exploring how AI models can operate efficiently in environments with
+Exploring how AI models can operate efficiently in environments with  
 limited computing power and memory.
 
 `Edge AI` `Model Optimization` `Computer Vision` `Inference`
@@ -106,7 +107,7 @@ limited computing power and memory.
 
 ### Languages
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -116,7 +117,7 @@ limited computing power and memory.
 
 ### AI / Data / Computer Vision
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -125,7 +126,7 @@ limited computing power and memory.
 
 ### Systems / Parallel Computing
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenMP-333333?style=for-the-badge"/>
@@ -133,7 +134,7 @@ limited computing power and memory.
 
 ### Tools
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -184,10 +185,10 @@ Focused on handling limited and unstructured maintenance data through meaningful
 
 Experiments comparing parallel computing performance.
 
-* CUDA Matrix Multiplication
-* OpenMP Trial Division
-* Thread performance analysis
-* CUDA tile-size experiments
+- CUDA Matrix Multiplication
+- OpenMP Trial Division
+- Thread performance analysis
+- CUDA tile-size experiments
 
 **Tech**
 
@@ -203,8 +204,8 @@ Implemented a proxy server while studying networking and system-level programmin
 
 **Topics**
 
-`Socket Programming`
-`Networking`
+`Socket Programming`  
+`Networking`  
 `Linux`
 
 **Tech**
@@ -251,7 +252,7 @@ Desktop Tetris implementation using Qt.
 
 Relevant areas of study:
 
-`Computer Vision` · `Machine Learning` · `GPU Computing`
+`Computer Vision` · `Machine Learning` · `GPU Computing`  
 `Operating Systems` · `Data Structures` · `Systems Programming`
 
 <br/>
@@ -262,12 +263,12 @@ Relevant areas of study:
 
 Coursework:
 
-* Artificial Intelligence
-* Algorithms & Data Structures
-* Python Programming
-* Communication Software
+- Artificial Intelligence
+- Algorithms & Data Structures
+- Python Programming
+- Communication Software
 
-Also participated in undergraduate research related to
+Also participated in undergraduate research related to  
 **aircraft maintenance data analysis**.
 
 ---
@@ -296,9 +297,9 @@ Also participated in undergraduate research related to
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HoKwaan&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"/>
+<img height="170" src="./profile/stats.svg" alt="Kwanho's GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoKwaan&layout=compact&hide_border=true&theme=github_dark&langs_count=8"/>
+<img height="170" src="./profile/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
@@ -309,9 +310,18 @@ Also participated in undergraduate research related to
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoKwaan/HoKwaan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoKwaan/HoKwaan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HoKwaan/HoKwaan/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HoKwaan/HoKwaan/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HoKwaan/HoKwaan/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/HoKwaan/HoKwaan/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
@@ -322,19 +332,19 @@ Also participated in undergraduate research related to
 
 <div align="center">
 
-I'm interested in **AI, Computer Vision, and Software Engineering**,
+I'm interested in **AI, Computer Vision, and Software Engineering**,  
 and I enjoy learning through building and experimentation.
 
-<br/>
+<br/><br/>
 
-**GitHub**
+**GitHub**  
 https://github.com/HoKwaan
 
-**Email**
-[kwanhokwon63@gmail.com](mailto:kwanhokwon63@gmail.com)
+**Email**  
+kwanhokwon63@gmail.com
 
 </div>
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=120\&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer)
